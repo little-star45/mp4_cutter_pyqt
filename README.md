@@ -1,0 +1,1 @@
+A wWindow application built in PyQt. It is used for easy video trimming. You upload a file, enter the recording time you want and the name of the new file. To work it is necessary to install the “ffmpeg” library beforehand.
